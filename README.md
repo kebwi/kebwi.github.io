@@ -2,4 +2,4 @@
 
 Keith Wiley's public Github website
 
-Personal website: http://keithwiley.com
+Personal website: [https://keithwiley.com](https://keithwiley.com)
